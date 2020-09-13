@@ -4,10 +4,10 @@
 
 # :wave: Hello Everyone!<img src="https://user-images.githubusercontent.com/70479282/93027439-aee5a400-f5c1-11ea-9117-f80924e5aac7.png" align=right width="400" height="230">
 
-My name is **Marvin Lin**, a high school student in Portland, OR. Although my primary is to pursue a degree in Mechanical Engineering, I still hold a passion for software and web development. Most of my projects (both CAD files and code) can be found here on [GitHub](https://www.github.com/marvinlinn).  
+My name is **Marvin Lin**, a high school student in Portland, OR. Although my primary is to pursue a degree in Mechanical Engineering, I still hold a passion for software and web development. Most of my projects (both CAD files and code) can be found here on [**GitHub**](https://www.github.com/marvinlinn).  
 
-Find out more about what I do and read my blog [here](https://marvinlin.me)!
+Find out more about what I do and read my blog [**here**](https://marvinlin.me)!
 
 ## License :page_with_curl:
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details
+This project is licensed under the MIT License - see the [**LICENSE.md**](LICENSE) file for details
