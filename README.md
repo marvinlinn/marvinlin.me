@@ -8,6 +8,8 @@ My name is **Marvin Lin**, a high school student in Portland, OR. Although my pr
 
 Find out more about what I do and read my blog [**here**](https://marvinlin.me)!
 
+**NOTE:** The website is currently being used as a test platform for learning HTML/CSS/jQuery.
+
 ## License :page_with_curl:
 
 This project is licensed under the MIT License - see the [**LICENSE.md**](LICENSE) file for details
