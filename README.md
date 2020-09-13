@@ -1,6 +1,6 @@
 [![GitHub license](https://img.shields.io/github/license/marvinlinn/marvinlin.me?color=red)](https://github.com/marvinlinn/marvinlin.me/blob/master/LICENSE)
-![Website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=brightgreen&up_message=online&url=https%3A%2F%2Fmarvinlin.me)
-![Last Commit](https://img.shields.io/github/last-commit/marvinlinn/marvinlin.me)
+[![Website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=brightgreen&up_message=online&url=https%3A%2F%2Fmarvinlin.me)](https://marvinlin.me)
+[![Last Commit](https://img.shields.io/github/last-commit/marvinlinn/marvinlin.me)](https://github.com/marvinlinn/marvinlin.me)
 
 # :wave: Hello Everyone!<img src="https://user-images.githubusercontent.com/70479282/93027439-aee5a400-f5c1-11ea-9117-f80924e5aac7.png" align=right width="400" height="230">
 
