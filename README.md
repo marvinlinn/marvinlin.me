@@ -4,7 +4,6 @@
 
 # :wave: Hello Everyone!<img src="https://user-images.githubusercontent.com/70479282/93027439-aee5a400-f5c1-11ea-9117-f80924e5aac7.png" align=right width="400" height="225">
 
-<<<<<<< HEAD
 Find out more about what I do and read my blog [here](https://marvinlin.me)!
 =======
 My name is **Marvin Lin**, a high school student in Portland, OR. Although my primary intent is to pursue a degree in Mechanical Engineering, I still hold a passion for software and web development. Most of my projects (both CAD files and code) can be found here on [**GitHub**](https://www.github.com/marvinlinn).  
@@ -12,7 +11,6 @@ My name is **Marvin Lin**, a high school student in Portland, OR. Although my pr
 Find out more about what I do and read my blog [**here**](https://marvinlin.me)!
 
 **NOTE:** The website is currently being used as a test platform for learning HTML/CSS/jQuery.
->>>>>>> 4209a959e42c26002c8842890528aba2b68c4679
 
 ## License :page_with_curl:
 
