@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page-essays
 title: 📝 Essays
 permalink: /essays/
 ---

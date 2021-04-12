@@ -2,7 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: homepage
+layout: page-about
 title: 😁 About
 ---
 My name is Marvin, and welcome to my digital home! I'm a engineering, athlete, and writer. You can find
