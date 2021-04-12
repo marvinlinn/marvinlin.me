@@ -9,7 +9,7 @@ layout: default-essays
   {{ content }}
 
   {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "All Essays" }}</h2>
+    <h2 class="post-list-heading"><b>{{ page.list_title | default: "All Essays" }}</b></h2>
     <ul class="post-list">
       {%- for post in site.posts -%}
       <li>
