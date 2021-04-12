@@ -4,7 +4,7 @@ title: Devlog
 permalink: /devlog/
 ---
 
-This is where you can find out more about the development of my website. Development does not include new posts to the site.
+This is where you can find out more about the development of my website. Development does not include new posts to the website.
 
 ### **1.0.0**
 
