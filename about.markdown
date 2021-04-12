@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-## DEVELOPMENT IN PROGRESS
+Welcome to my digital home!
