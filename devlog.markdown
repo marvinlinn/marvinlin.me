@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Devlog
+title: 💾 Devlog
 permalink: /devlog/
 ---
 
