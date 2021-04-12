@@ -1,6 +1,6 @@
 ---
 layout: page-essays
-title: 📝 Essays
+title: Essays
 permalink: /essays/
 ---
 
