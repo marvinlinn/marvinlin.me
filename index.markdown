@@ -6,7 +6,7 @@ layout: page-about
 title: 😁 About
 ---
 <div align="center">
-  <img width="200" src="/profile.png">
+  <img width="200" src="/profile.jpg">
 </div>
 
 My name is Marvin, and welcome to my digital home! I'm an engineer, athlete, and writer. You can find
