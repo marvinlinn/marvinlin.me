@@ -1,9 +1,18 @@
 <!DOCTYPE html>
 
+<!--
+    The following website was built by Marvin Lin.
+    Anyone is permitted to use the following code,
+    as long as credit is given.
+-->
+
 <html lang="en">
     <head>
         <title>Marvin Lin</title>
         <link rel="stylesheet" type="text/css" href="./main.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&display=swap" rel="stylesheet">
     </head>
 
     <header>
@@ -11,39 +20,41 @@
     </header>
 
     <nav class="upper-nav">
-        <p>
-         ML
-        </p>
-        <ul>
-            <li><a href="./essays.html">Essays</a></li>
-            <li>Projects</li>
-            <li>About</li>
-        </ul>
-        <div class="nav-icons">
-            <a href="https://instagram.com/marvinlin_" target="_blank"><img src="assets/instagram.png"></a>
-            <a href="https://www.linkedin.com/in/marvin-lin" target="_blank"><img src="assets/linkedin.png"></a>
-            <a href="https://github.com/marvinlinn" target="_blank"><img src="assets/github.png"></a>
-            <a href="mailto: marvin.j.lin@gmail.com" target="_blank"><img src="assets/mail.png"></a>
+        <p class="logo">ML</p>
+        <div class="main-menu">
+            <ul>
+                <li><a href="./essays.html">Essays</a></li>
+                <li><a href="./projects.html">Projects</a></li>
+                <li><a href="./about.html">About</a></li>
+            </ul>
+            <div class="nav-icons">
+                <a href="https://instagram.com/marvinlin_" target="_blank"><img src="assets/instagram.png"></a>
+                <a href="https://www.linkedin.com/in/marvin-lin" target="_blank"><img src="assets/linkedin.png"></a>
+                <a href="https://github.com/marvinlinn" target="_blank"><img src="assets/github.png"></a>
+                <a href="mailto: marvin.j.lin@gmail.com" target="_blank"><img src="assets/mail.png"></a>
+            </div>
         </div>
     </nav>
     
     <body>
-        <div>
+        <div class="about-me">
             <h2>Hello, its me</h2>
-            <h1>Marvin.</h1>
-            <p>
+            <h1>Marvin<div id="green">.</div></h1>
+            <p id="about-me-blurb">
                 An engineer and entrepreneur currently exploring
                 next-generation space technology with a focus on
                 sustainability and open source development.
             </p>
-            <button>MORE ABOUT ME →</button>
+            <p class="button"><a href="./about.html">MORE ABOUT ME →</a></p>
         </div>
-        <div>
-            <h3>ESSAYS</h3>
-            <h2>Hello, World</h2>
-            <p>
-                Writing 
-            </p>
+        <div class="essay-section">
+            <div id="essay-blurb">
+                <h3>ESSAYS</h3>
+                <h2>Hello, World</h2>
+                <p>
+                    Writing 
+                </p>
+            </div>  
         </div>
     </body>
     
