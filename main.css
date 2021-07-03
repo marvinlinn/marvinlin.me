@@ -1,0 +1,56 @@
+@import url(https://fonts.googleapis.com/css?​family=Open+Sans);
+
+/* Reset Formatting */
+
+* {
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+    font-family: "Open Sans", sans-serif;
+    overflow-x: hidden;
+}
+
+/* Basic HTML Components */
+
+h3 {
+    color: #67CEA3;
+}
+
+/* Header */
+
+/* Navigation Bar */
+
+nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+nav p {
+    margin: 0px;
+    font-weight: 800;
+    font-size: 36pt;
+    display:inline-block;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+}
+
+.upper-nav {
+    padding-left: 20px;
+    padding-top: 10px;
+}
+
+.nav-icons {
+    justify-content: space-between;
+    width: 250px;
+}
+
+.nav-icons img{
+    width: 30px;
+    height: 30px;
+}
+/* Header */
