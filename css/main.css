@@ -8,6 +8,30 @@
     overflow-x: hidden;
 }
 
+/* Text Classes */
+
+.semibold {
+    font-weight: 600;
+}
+
+.grey {
+    color: #848484;
+}
+
+.grey-semibold {
+    color: #848484;
+    font-weight: 600
+}
+
+.green {
+    color: #67CEA3;
+    display: inline;
+}
+
+.pink {
+    color: #f8969c;
+}
+
 /* Basic HTML Components */
 
 h2 {
@@ -33,7 +57,7 @@ h3 {
 
 /* Upper Navigation Bar */
 
-.upper-nav {
+.nav-upper {
     margin-top: 15px;
     margin-left: 50px;
     margin-right: 65px;
@@ -71,12 +95,12 @@ h3 {
     text-transform: lowercase;
 }
 
-.nav-icons {
+.social-icons {
     float: right;
     margin-top: 30px;
 }
 
-.nav-icons img {
+.social-icons img {
     width: 26px;
     margin-right: 5px;
     margin-left: 5px;
@@ -84,13 +108,13 @@ h3 {
 
 /* Section 1: About Me */
 
-.about-me {
+.home-about-me {
     margin-top: 120px;
     margin-bottom: 120px;
     margin-left: 150px;
 }
 
-#about-me-blurb {
+#home-about-me-blurb {
     margin-top: 2
 0px;
     width: 500px;
@@ -117,21 +141,16 @@ h3 {
     text-decoration: none;
 }
 
-#green {
-    color: #67CEA3;
-    display: inline;
-}
-
 /* Section 2: Essays */
 
-.featured-post {
+.home-featured-post {
     background-color: black;
 }
-.featured-post h2 {
+.home-featured-post h2 {
     margin-left: -1px;
 }
 
-#essay-blurb {
+.home-post-blurb {
     float: right;
     color: white;
     width: 50%;
@@ -140,22 +159,50 @@ h3 {
     margin-left: 20px;
 }
 
-#essay-blurb p {
+.home-post-blurb p {
     margin-top: 5px;
     font-weight: lighter;
 }
 
-#featured-essay-section {
+.home-featured-post-section {
     float: left;
     margin-top: 75px;
     margin-bottom: 75px;
     margin-left: 100px;
 }
 
-.featured-essay {
+.home-featured-post-content {
     background-color: white;
     width: 300px;
     padding: 30px;
     margin-bottom: 20px;
     border-radius: 5px;
+}
+
+.home-featured-post-content h1 {
+
+}
+
+.home-featured-post-content h2 {
+
+}
+
+.home-featured-post-content h3 {
+
+}
+
+.home-featured-post-content p {
+
+}
+
+/* Footer */
+
+.home-footer {
+  margin-top: 15px;  
+  margin-bottom: 15px;
+}
+
+.home-footer p {
+    font-size: 14px;
+    text-align: center;
 }
